@@ -2,7 +2,7 @@ package github;
 
 /**
  * Hello world!
- *
+ * Wheat
  */
 public class App 
 {
