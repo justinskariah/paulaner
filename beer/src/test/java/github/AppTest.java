@@ -21,6 +21,7 @@ public class AppTest
     }
 
     /**
+     * More
      * @return the suite of tests being tested
      */
     public static Test suite()
