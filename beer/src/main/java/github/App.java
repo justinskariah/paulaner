@@ -1,9 +1,7 @@
 package github;
 
 /**
- * Hello world!
  * Wheat
- * Add
  * A FEw More 
  * Lines
  */
