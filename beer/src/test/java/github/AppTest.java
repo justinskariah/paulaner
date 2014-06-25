@@ -38,6 +38,7 @@ public class AppTest
      */
     public void testApp()
     {
+        //Just a comment
         assertTrue( true );
     }
 }
