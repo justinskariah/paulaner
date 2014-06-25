@@ -28,6 +28,11 @@ public class AppTest
         return new TestSuite( AppTest.class );
     }
 
+    public void newTest()
+    {
+      fail();
+    }
+
     /**
      * Rigourous Test :-)
      */
