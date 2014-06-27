@@ -41,4 +41,9 @@ public class AppTest
         //Just a comment
         assertTrue( true );
     }
+
+    public void testMoreAndMore()
+    {
+        assertTrue("More And More", true);  
+    }
 }
