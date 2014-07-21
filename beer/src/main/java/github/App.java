@@ -3,7 +3,6 @@ package github;
 /**
  * Hello world!
  * Hello`:wq
-
  */
 public class App 
 {
